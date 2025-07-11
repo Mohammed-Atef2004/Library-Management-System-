@@ -37,8 +37,6 @@ A full-featured Library Management System built using **ASP.NET Core MVC** with 
 
 ## 🖼️ Screenshots
 
-> You can upload screenshots to GitHub and reference them here:
-
 [Home Page]<img width="1329" height="617" alt="image" src="https://github.com/user-attachments/assets/f7154e53-2dc0-43bb-bf72-dc331f128b9d" />
 [Register Page] <img width="1337" height="604" alt="image" src="https://github.com/user-attachments/assets/f1721340-f347-463f-8798-4b0f695e9143" />
 [Login Page] <img width="1337" height="605" alt="image" src="https://github.com/user-attachments/assets/4a0cd54c-d306-4880-af72-1c7f9111a091" />
@@ -108,7 +106,8 @@ git clone https://github.com/Mohammed-Atef2004/Library-Management-System-.git
 ## 🙋 Author
 
 **Mohammed Atef Moselhy**  
-📧 mohammed_atef.1@gmail.com  
+📧 muhamedatef.82@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-atef-/)  
 🔗 [GitHub](https://github.com/Mohammed-Atef2004)
 ---
