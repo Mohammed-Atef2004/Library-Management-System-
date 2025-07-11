@@ -105,7 +105,7 @@ git clone https://github.com/Mohammed-Atef2004/Library-Management-System-.git
 
 ## 🙋 Author
 
-**Mohammed Atef Moselhy**  
+**Mohammed Atef **  
 📧 muhamedatef.82@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-atef-/)  
